@@ -15,6 +15,6 @@ expansion:
 definition: 
 links:
 see_also:
-" > $OUTFILE
+" > "$OUTFILE"
 
 echo "New entry template created in $OUTFILE"
