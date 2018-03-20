@@ -1,0 +1,12 @@
+---
+headword: PivNet
+expansion: Pivotal Network
+definition: >
+  A site for distributing software that has been specially packaged for installation in PCF using the OpsManager UI.
+links:
+  - https://network.pivotal.io
+see_also:
+  - OpsManager
+  - tile
+  - PCF
+

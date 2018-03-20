@@ -1,0 +1,9 @@
+---
+headword: TOB
+expansion: Top of Backlog
+definition: A developer pair told to work on TOB should begin work on the story prioritized at the top of their Pivotal Tracker backlog.
+links:
+see_also:
+  - Pivotal Tracker
+  - backlog
+
