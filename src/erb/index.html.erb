@@ -1,0 +1,60 @@
+<% 
+  def slugify(input)
+    input
+      .downcase
+      .gsub(" ", "-")
+      .gsub(/\W/, "")
+  end
+%>
+
+<html>
+<link rel="stylesheet" href="./styles.css">
+<body>
+<script type="application/javascript">
+function jumpto(anchor){
+    console.log("jumping to " + anchor)
+    window.location.href = "#"+anchor;
+}
+</script>
+<div class="entries">
+  <div class="title">PEDANT</div>
+  <div class="expansion">Pivotal Electronic Dictionary of Arcane Nomenclature and Terms</div>
+  
+  <% entries.each do |e| %>
+    <div class='entry'>
+
+      <div class="headword" id="<%= slugify(e['headword']) %>">
+        <a href="#<%= slugify(e['headword']) %>"><%= e['headword'] %></a>
+      </div>
+
+      <div class="expansion">
+        <%= e['expansion'] %>  
+      </div>
+
+      <% if e['definition'] %>
+        <div class="def">
+          <%= e['definition'] %>
+        </div>
+      <% end %>
+
+      <% if e['links'] %>
+        <ul class="links">
+          <% e['links'].each do |link| %>
+            <li><a href="<%= link %>"><%= link %></a></li>
+          <% end %>
+        </ul>
+      <% end %>
+
+      <% if e['see_also'] %>
+        <div class="see-also">
+          <span>See Also:</span>
+          <% e['see_also'].each do |see| %>
+            <span><a onclick=jumpto("<%= slugify(see) %>")><%= see %></a></span>
+          <% end %>
+        </div>
+      <% end %>
+
+    </div>
+  <% end %>  
+</div>
+</body>
