@@ -1,5 +1,8 @@
 ---
 headword: CC
 expansion: Cloud Controller
+links:
+  - https://github.com/cloudfoundry/capi-release
+  - https://apidocs.cloudfoundry.org/
 see_also: 
 - CAPI

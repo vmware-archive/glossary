@@ -1,0 +1,12 @@
+---
+headword: CVE
+expansion: Common Vulnerabilities and Exposures
+definition: >
+  A system for numbering and referencing publicly known information-security vulnerabilities and exposures. When a security problem is discovered a CVE number is assigned to that vulnerability so that all interested parties can unambiguously refer to that issue. Pivotal is committed to quickly delivering patches for CVEs with critical and high CVSS scores.
+links:
+- https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures
+- https://nvd.nist.gov/
+- https://cve.mitre.org/
+see_also:
+- CVSS
+

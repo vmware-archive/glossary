@@ -1,3 +1,4 @@
 ---
 headword: AppsMan
-expansion: Application Manager
+expansion: Apps Manager
+definition: A nice UI that ships as part of PCF. Allows developers to see the configuration and status of applications across different orgs and spaces in a running PCF deployment.

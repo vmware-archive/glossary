@@ -1,3 +1,8 @@
 ---
 headword: IAAS
 expansion: Infrastructure as a Service
+definition: >
+  Managing the physical computer hardware necessary to run workloads is a costly and difficult business. As a result, 
+  many companies prefer to outsource this responsibility to other companies with the expertise and scale needed to manage 
+  infrastructure well. IaaS customers pay metered rates for each virtual machine, disk, network, or other cloud resource 
+  they consume. Example IaaS providers include Google Cloud Platform and Amazon Web Services.

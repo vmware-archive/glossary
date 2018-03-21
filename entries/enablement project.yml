@@ -1,2 +1,10 @@
 ---
 headword: enablement project
+definition: >
+  When Pivotal consultants work with external clients, a project might be referred to as an enablement 
+  project if one of the specific aims of the process is to teach client developers our Agile development 
+  process and transform their organization's approach to software development. The opposite of an enablement
+  project is an execution or delivery-focused project where the client is primarily concerned with the 
+  delivery of specific apps or features.
+see_also:
+- Pivotal Labs

@@ -1,2 +1,7 @@
 ---
 headword: Anchor
+definition: >
+  The anchor is an engineering role on development teams. While Pivotal encourages regular rotation of individual contributors 
+  across teams, anchors tend to remain on teams for longer periods of time to increase continuity in the team's work. The anchor
+  is responsible for facilitating their team's work and maintaining communication loops within the team, from their team to 
+  related teams, and from their team to engineering leaders such as Engineering Directors (in CF) or Office Directors (in Labs).

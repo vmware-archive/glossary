@@ -2,7 +2,7 @@
 headword: AI
 expansion: Application Instance
 definition: >
-  When customers by a PCF subscription, one of the things we track is the number of AIs they are consuming. 
+  When customers buy a PCF subscription, one of the things we track is the number of AIs they are consuming. 
   The more applications a customer is running on PCF, the more value they are getting from the platform and 
   the more likely they are to renew their subscription.
 links:

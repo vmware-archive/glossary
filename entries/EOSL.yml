@@ -1,0 +1,8 @@
+---
+headword: EOSL
+expansion: End of Support Life
+definition: A product has reached its End of Support Life when it is no longer supported by Pivotal. End of support life for a specific product is either end of General Support or end of Technical Guidance (if available for that specific product).
+links:
+- https://pivotal.io/support/lifecycle_policy
+see_also:
+

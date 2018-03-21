@@ -1,9 +1,12 @@
 ---
 headword: PCF
 expansion: Pivotal Cloud Foundry
-definition: Pivotal's commercial offering of Cloud Foundry. Some of th reasons our
-  customers choose to purchase PCF include commercial support, our curated ecosystem
-  of available add-ons and partner tiles, and graphical UIs that provide an enhanced
-  operator/developer experience.
+definition: > 
+  Pivotal's commercial offering of Cloud Foundry. Some of the reasons our customers choose to purchase PCF
+  include commercial support, our curated ecosystem of available add-ons and partner tiles, and graphical 
+  UIs that provide an enhanced operator/developer experience.
+
 links:
 - https://pivotal.io/platform
+see_also:
+

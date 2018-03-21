@@ -1,2 +1,10 @@
 ---
 headword: epic
+definition: >
+  Large product changes or goals often require the completion of many smaller stories. 
+  An epic is the Pivotal Tracker domain concept for organizing related stories under a 
+  single tag.
+see_also:
+- Pivotal Tracker
+links:
+- https://www.pivotaltracker.com

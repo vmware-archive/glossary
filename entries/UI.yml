@@ -1,2 +1,7 @@
 ---
 headword: UI
+expansion: User Interface
+definition: >
+  The way a user interacts with a piece of software. UIs can be graphical, as in a web browser or native app, 
+  or they can be textual as in a command-line interface. Graphic UIs are one of the major value-adds that PCF
+  provides over open source versions of Cloud Foundry.

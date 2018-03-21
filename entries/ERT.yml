@@ -1,3 +1,7 @@
 ---
 headword: ERT
-expansion: Elastic Runtime
+expansion: Pivotal Elastic Runtime
+definition: >
+  Prior to PCF 2.0, ERT was the name given to the tile in a PCF installation that represented the underlying CF deployment. 
+  A limited set of configurations and defaults were exposed to platform operators through the OpsManager UI, resulting in 
+  a friendlier installation and upgrade experience. ERT refers only to this specific branded Cloud Foundry.
