@@ -1,6 +1,6 @@
 # Pivotal Electronic Dictionary of Arcane Nomenclature and Terminology
 
-We have all felt the frustration of not being able to fully participate in a conversation because of the large number of **ACRONYMS** (Alphabetic Characters Representing Obscure Names You Must Shorten) in use by **GURUS** (Groups Uttering Relatively Unintelligible Slang) and long-term company **VETERANS** (Very Experienced Technical Experts Repeating ACRONYMS Nobody Speaks). Until you develop the **EAR** (Experience, Appreciation, and Respect) for a team's specific [**ARGOT**](https://en.wikipedia.org/wiki/Argot) (Abbreviated References to Generally Obvious Things), it's unfortunately easy to be left feeling like an [**IGNORAMUS**](https://www.merriam-webster.com/dictionary/ignoramus) (Individual Given No Opportunity to Respond to A Million Unintelligible Sayings).
+We have all felt the frustration of not being able to fully participate in a conversation because of the large number of **ACRONYMS** (Alphabetic Characters Representing Obscure Names You Must Shorten) in use by **GURUS** (Groups Uttering Regrettably Unclear Slang) and long-term company **VETERANS** (Very Experienced Technical Experts Repeating ACRONYMS Nobody Speaks). Until you develop the **EAR** (Experience, Appreciation, and Respect) for a team's specific [**ARGOT**](https://en.wikipedia.org/wiki/Argot) (Abbreviated References to Generally Obvious Things), it's unfortunately easy to be left feeling like an [**IGNORAMUS**](https://www.merriam-webster.com/dictionary/ignoramus) (Individual Given No Opportunity to Respond to A Million Unintelligible Sayings). Let's remember to **INCLUDE** (Invite New Collaborators to Listen, Understand, and Discourse Equally) others by teaching them our **WORDS** (Ways Of Referring to Domain Subjects).
 
 This project aims to make Pivotal a more inclusive environment by explicitly
 defining the terms, acronyms, initialisms, abbreviations, and jargon used
@@ -28,7 +28,7 @@ see_also:
 
 Other than `headword`, all fields are considered optional.
 
-To create a new empty template, run `./add_word.sh word-to-add`.
+These files can be created and edited manually. Or, to get started on a new entry, you can create an empty template by running `rake add_word["Pair Programming"]`.
 
 ## Acknolwedgements
 
