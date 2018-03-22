@@ -1,0 +1,14 @@
+---
+headword: XP
+expansion: Extreme Programming
+definition: >
+  A set of software development practices that aim to achieve the
+  principles set out in Agile development. Many core practices at
+  Pivotal (weekly retro meetings for process reflection and feedback,
+  IPM meetings to plan, pair programming to build shared ownership and
+  understanding, and many others) come out of XP thinking.
+links:
+- https://en.wikipedia.org/wiki/Extreme_programming
+see_also:
+- Agile
+- Pivotal Labs

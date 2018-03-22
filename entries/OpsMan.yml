@@ -1,3 +1,9 @@
 ---
 headword: OpsMan
 expansion: Operations Manager
+definition: >
+  A UI used by platform operators to manage their Pivotal Cloud
+  Foundry installation.
+links:
+- https://pivotal.io/platform/pcf-components/pcf-ops-manager
+- https://network.pivotal.io/products/ops-manager

@@ -1,6 +1,14 @@
 ---
 headword: C[0]
-expansion: 
-definition:
+expansion: Customer0
+definition: >
+  The Customer0 team leverages real customer use-cases of PCF to drive
+  validated learning and feedback to R&D, to refine Pivotal products so
+  that our customer engagements are faster, repeatable, and more
+  successful. They also reduce the “snowflake customer” support burden
+  on GSS and PCFS by developing, refining, and standardizing PCF
+  deployment and operation strategies and tools for customers.
 links:
 see_also:
+- GSS
+- PCFS

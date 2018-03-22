@@ -1,2 +1,9 @@
 ---
 headword: BOSH
+expansion:
+definition: >
+  BOSH is an open source tool for release engineering, deployment,
+  lifecycle management, and monitoring of distributed systems.
+links:
+- https://bosh.io/
+- http://mariash.github.io/learn-bosh/

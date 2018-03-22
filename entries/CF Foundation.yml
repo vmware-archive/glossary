@@ -1,6 +1,11 @@
 ---
 headword: CF Foundation
-expansion: 
-definition:
+expansion: Cloud Foundry Foundation
+definition: >
+  The governing body of the Cloud Foundry open source project. Member companies include
+  Pivotal along with SAP, VMware, IBM, and others. The Foundation's stated goal is to
+  promote the awareness and adoption of the Cloud Foundry ecosystem of PaaS solutions.
 links:
+- https://www.cloudfoundry.org/
 see_also:
+

@@ -1,2 +1,7 @@
 ---
 headword: red green refactor
+definition: >
+  A catchphrase that summarizes the process of developing software using
+  a Test-Drive Development approach. First write a test, see it fail (go red),
+  write some code to make the test pass (go green), and finally check if there
+  are refactors that would improve the quality of the implementation.

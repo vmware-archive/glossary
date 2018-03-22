@@ -1,4 +1,9 @@
 ---
 headword: AppsMan
 expansion: Apps Manager
-definition: A nice UI that ships as part of PCF. Allows developers to see the configuration and status of applications across different orgs and spaces in a running PCF deployment.
+definition: >
+  A nice UI that ships as part of PCF. Allows developers to see the
+  configuration and status of applications across different orgs and
+  spaces in a running PCF deployment.
+links:
+- https://docs.pivotal.io/pivotalcf/1-12/console/

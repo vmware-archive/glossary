@@ -1,7 +1,15 @@
 ---
 headword: Agile
 expansion:
-definition: 
+definition: >
+  Agile is a software development methodology that prioritizes adaptive,
+  iterative processes. It places a high value on individual interactions
+  and the flexibility to respond when needs or requirements change. The
+  Pivotal Labs consulting practice exists in part to teach our flavor of Agile
+  development approaches to customers who want to change the way they
+  build software.
 links:
+- https://en.wikipedia.org/wiki/Agile_software_development
 see_also:
-
+- Pivotal Labs
+- XP

@@ -1,2 +1,10 @@
 ---
 headword: tile
+definition: >
+  When software is packaged for installation using OpsManager,
+  those packages are called tiles. This name comes from the square
+  tile that appears in the OpsManager UI during the installation
+  process. Tiles are distributed to customers via PivNet.
+see_also:
+- PivNet
+- OpsManager
