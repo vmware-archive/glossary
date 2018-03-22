@@ -8,15 +8,41 @@ $mono: Menlo, Consolas, "Courier New", monospace;
 
 body {
   font-family: 'Source Sans Pro', Helvetica, sans serif;
+  padding: 2em;
+}
+
+.wrapper {
+  display: flex;  
+  flex-flow: row wrap;
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+.footer {
+  background: lightgreen;
 }
 
 .entries {
-  width: 500px;
-  margin: 0 auto;
+  text-align: left;
+}
+
+@media all and (max-width: 700px) {
+  .entries     { order: 1; }
+  .plz-explain { order: 2; } 
+  .footer      { order: 3; }
+  body         { padding: 0.3em; }
+}
+
+@media all and (min-width: 700px) {
+  .plz-explain { flex: 3 none; }
 }
 
 .entry {
   padding: 15px 0;
+  max-width: 500px;
 }
 
 li {
@@ -55,7 +81,7 @@ li {
 }
 
 .title {
-  font-size: 1.4em;
+  font-size: 2em;
   font-weight: 700;
 }
 
@@ -66,9 +92,28 @@ li {
 .links {
   margin: 0px 0;
   padding: 0px 0px;
+  overflow: hidden;
 }
 
 a, a:visited {
   color: $accent;
   text-decoration: none;
+}
+
+.plz-explain {
+  div {
+    line-height: 1.7em;
+  }
+
+  span {
+    padding: .2em .6em;
+    background: #e9e9e9;
+    margin-right: 10px;
+    white-space: nowrap;
+    font-size: 0.8em;
+  }
+}
+
+h2 {
+  font-size: 1.3em;
 }

@@ -9,10 +9,16 @@ Dir.new('entries').each do |filename|
   end
 end
 
+def blank(val)
+  val.nil? || val.size == 0
+end
+
+repo_location = 'https://github.com/pivotal-cf/glossary'
+
+needs_work = entries.select { |e| blank(e["expansion"]) && blank(e["definition"]) }
+
 entries = entries.sort_by { |e| e["headword"].downcase }
+entries = entries - needs_work
 
 erb = ERB.new(File.read('src/erb/index.html.erb'))
 erb.run()
-# rendered = erb.run()
-
-# File.open('build/index.html', 'w') { |f| f.write(rendered) }

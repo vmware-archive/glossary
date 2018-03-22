@@ -1,63 +1,77 @@
 <% 
-  def slugify(input)
-    input
-      .downcase
-      .gsub(" ", "-")
-      .gsub(/\W/, "")
-  end
+def slugify(input)
+  input
+  .downcase
+  .gsub(" ", "-")
+  .gsub(/\W/, "")
+end
 %>
 
 <html>
 <head>
-<title>Pivotal Electronic Dictionary of Arcane Nomenclature and Terms (PEDANT)</title>
+  <title>Pivotal Electronic Dictionary of Arcane Nomenclature and Terms (PEDANT)</title>
 </head>
 <link rel="stylesheet" href="./styles.css">
 <body>
-<script type="application/javascript">
-function jumpto(anchor){
-    console.log("jumping to " + anchor)
-    window.location.href = "#"+anchor;
-}
-</script>
-<div class="entries">
-  <div class="title">PEDANT</div>
-  <div class="expansion">Pivotal Electronic Dictionary of Arcane Nomenclature and Terms</div>
-  
-  <% entries.each do |e| %>
-    <div class='entry'>
+  <script type="application/javascript">
+    function jumpto(anchor){
+      console.log("jumping to " + anchor)
+      window.location.href = "#"+anchor;
+    }
+  </script>
+  <div class="wrapper">
+    <div class="header">
+      <div class="title">PEDANT</div>
+      <div class="expansion">Pivotal Electronic Dictionary of Arcane Nomenclature and Terms</div>    
+    </div>
 
-      <div class="headword" id="<%= slugify(e['headword']) %>">
-        <a href="#<%= slugify(e['headword']) %>"><%= e['headword'] %></a>
+    <% if needs_work.size > 0 %>
+    <div class="plz-explain">
+      <h2>Can you explain any of these?</h2>
+      <div class='needs-work'>
+        <% needs_work.each do |e| %>
+        <span><a href="<%= repo_location %>/blob/master/entries/<%= e["headword"] %>.yml"><%= e["headword"] %></a></span>
+        <% end %>
       </div>
+    </div>
+    <% end %>
+    <div class="entries">
+      <% entries.each do |e| %>
+      <div class='entry'>
 
-      <div class="expansion">
-        <%= e['expansion'] %>  
-      </div>
+        <div class="headword" id="<%= slugify(e['headword']) %>">
+          <a href="#<%= slugify(e['headword']) %>"><%= e['headword'] %></a>
+        </div>
 
-      <% if e['definition'] %>
+        <div class="expansion">
+          <%= e['expansion'] %>  
+        </div>
+
+        <% if e['definition'] %>
         <div class="def">
           <%= e['definition'] %>
         </div>
-      <% end %>
+        <% end %>
 
-      <% if e['links'] %>
+        <% if e['links'] %>
         <ul class="links">
           <% e['links'].each do |link| %>
-            <li><a href="<%= link %>"><%= link %></a></li>
+          <li><a href="<%= link %>"><%= link %></a></li>
           <% end %>
         </ul>
-      <% end %>
+        <% end %>
 
-      <% if e['see_also'] %>
+        <% if e['see_also'] %>
         <div class="see-also">
           <span>See Also:</span>
           <% e['see_also'].each do |see| %>
-            <span><a onclick=jumpto("<%= slugify(see) %>")><%= see %></a></span>
+          <span><a onclick=jumpto("<%= slugify(see) %>")><%= see %></a></span>
           <% end %>
         </div>
-      <% end %>
+        <% end %>
 
+      </div>
+      <% end %>  
     </div>
-  <% end %>  
-</div>
+  </div>
 </body>
