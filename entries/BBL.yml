@@ -1,0 +1,8 @@
+---
+headword: BBL
+expansion: BOSH Bootloader ("Bubble")
+definition: >
+  Command line utility for standing up a BOSH director on an IAAS of your choice.
+links:
+- https://github.com/cloudfoundry/bosh-bootloader
+see_also:
