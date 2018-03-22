@@ -1,7 +1,11 @@
 ---
 headword: SLI
-expansion:
-definition: 
+expansion: Service Level Indicator
+definition: >
+  Metrics such as latency, throughput, availability that tell operators how they are doing with regard to their SLAs.
 links:
+- https://en.wikipedia.org/wiki/Service_level_indicator
 see_also:
+- SLA
+- SLO
 

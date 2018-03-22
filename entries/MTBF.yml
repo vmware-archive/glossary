@@ -1,0 +1,9 @@
+---
+headword: MTBF
+expansion: Mean Time Between Failures
+definition:
+links:
+- https://en.wikipedia.org/wiki/Mean_time_between_failures
+see_also:
+- SLA
+- MTTR

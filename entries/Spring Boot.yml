@@ -1,6 +1,12 @@
 ---
 headword: Spring Boot
 expansion: 
-definition:
+definition: >
+ A popular framework for creating web applications using Java. Spring Boot is an evolution of the Spring 
+ framework which allows most configurations to be performed in Java code using configuration classes, 
+ annotations, and properties. Most people consider this a quality-of-life improvement over the XML 
+ configuration used in the "old" version of Spring.
 links:
+- https://projects.spring.io/spring-boot/
 see_also:
+- Spring

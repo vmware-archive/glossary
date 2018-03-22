@@ -1,0 +1,9 @@
+---
+headword: MTTR
+expansion: Mean Time To Recovery/Repair
+definition: The amount of time needed to recover from an issue.
+links:
+- https://en.wikipedia.org/wiki/Mean_time_to_repair
+see_also:
+- MTBF
+- SLA

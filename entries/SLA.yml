@@ -1,7 +1,12 @@
 ---
 headword: SLA
-expansion:
-definition: 
+expansion: Service Level Agreement
+definition: >
+  When operating a SaaS platform such as PWS, the SLA is a commitment to providing a 
+  specific level of availability.
 links:
+- https://en.wikipedia.org/wiki/Service-level_agreement
 see_also:
+- SLI
+- SLO
 

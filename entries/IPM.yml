@@ -1,2 +1,7 @@
 ---
 headword: IPM
+expansion: Iteration Planning Meeting
+definition: >
+  This is a weekly team planning meeting usually led by the Product Manager. The purpose of the meeting 
+  is to get everyone on the same page about upcoming work and estimate the effort required to implement 
+  the features the Product Manager wants added.

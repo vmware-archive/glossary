@@ -1,0 +1,9 @@
+---
+headword: SLO
+expansion: Service Level Objective
+definition:
+links:
+- https://en.wikipedia.org/wiki/Service_level_objective
+see_also:
+- SLI
+- SLA
