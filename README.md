@@ -1,6 +1,17 @@
 # PEDANT: Pivotal Electronic Dictionary of Arcane Nomenclature and Terminology
 
-We have all felt the frustration of not being able to fully participate in a conversation because of the large number of **ACRONYMS** (Alphabetic Characters Representing Obscure Names You Must Shorten) in use by **GURUS** (Groups Uttering Regrettably Unclear Slang) and long-term company **VETERANS** (Very Experienced Technical Experts Repeating ACRONYMS Nobody Speaks). Until you develop the **EAR** (Experience, Appreciation, and Respect) for a team's specific [**ARGOT**](https://en.wikipedia.org/wiki/Argot) (Abbreviated References to Generally Obvious Things), it's unfortunately easy to be left feeling like an [**IGNORAMUS**](https://www.merriam-webster.com/dictionary/ignoramus) (Individual Given No Opportunity to Respond to A Million Unintelligible Sayings). Let's remember to **INCLUDE** (Invite New Collaborators to Listen, Understand, and Discuss Equally) others by teaching them our **WORDS** (Ways Of Referring to Domain Subjects).
+We have all felt the frustration of not being able to fully participate in a
+conversation because of the large number of **ACRONYMS** (Alphabetic Characters
+Representing Obscure Names You Must Shorten) in use by **GURUS** (Groups
+Uttering Regrettably Unclear Slang) and long-term company **VETERANS** (Very
+Experienced Technical Experts Repeating ACRONYMS Nobody Speaks). Until you
+develop the **EAR** (Experience, Appreciation, and Respect) for a team's
+specific [**ARGOT**](https://en.wikipedia.org/wiki/Argot) (Abbreviated
+References to Generally Obvious Things), it's unfortunately easy to be left
+feeling like an
+[**IGNORAMUS**](https://www.merriam-webster.com/dictionary/ignoramus)
+(Individual Given No Opportunity to Respond to A Million Unintelligible
+Sayings).
 
 This project aims to make Pivotal a more inclusive environment by explicitly
 defining the terms, acronyms, initialisms, abbreviations, and jargon used
@@ -8,7 +19,8 @@ throughout our company.
 
 ## Contributing entries
 
-The site is generated from yaml files located in the `/entries` directory. An entry will look something like this:
+The site is generated from yaml files located in the `/entries` directory. An
+entry will look something like this:
 
 ```
 ---
@@ -28,10 +40,14 @@ see_also:
 
 Other than `headword`, all fields are considered optional.
 
-These files can be created and edited manually. Or, to get started on a new entry, you can create an empty template by running `rake add_word["Pair Programming"]`.
+These files can be created and edited manually. Or, to get started on a new
+entry, you can create an empty template by running `rake add_word["Pair Programming"]`.
 
 ## Acknolwedgements
 
-The need for this list became clear when two members of my team, both new Pivots, let me know how overwhelmed they felt by all the acronyms flying at them all the time. I don't think we would have had that conversation if not for the Inclusion workshop organized for us by Gareth Smith.
+The need for this list became clear when two members of my team, both new
+Pivots, let me know how overwhelmed they felt by all the acronyms flying at them
+all the time. I don't think we would have had that conversation if not for the
+Inclusion workshop organized for us by Gareth Smith.
 
 My humorous acronyming has been inspired by [this delightful piece](https://www.mcsweeneys.net/articles/our-top-secret-army-base-uses-too-many-acronyms) by Dan Caprera in McSweeny's Internet Tendency. Check it out.
