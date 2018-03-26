@@ -1,6 +1,11 @@
 ---
 headword: PCFS
-expansion: 
-definition:
+expansion: PCF Services
+definition: >
+  This team is a field post-sales team that enables customers to
+  deploy/manage their own pcf deployments. This goes from initial
+  install to advanced day 2 operations. It is a billable service
+  where we generally travel to customer locations to pair with their
+  platform engineers to do this work.
 links:
 see_also:

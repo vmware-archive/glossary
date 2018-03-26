@@ -1,7 +1,10 @@
 ---
 headword: CATs
-expansion:
-definition: 
+expansion: CF Acceptance Tests
+definition: >
+  A suite of acceptance tests used to verify the correct functioning of core user-facing functionality of a
+  CF deployment. Tests rely on the cf cli and curl to log in to the platform, push apps, fetch logs, etc.
 links:
+- https://github.com/cloudfoundry/cf-acceptance-tests
 see_also:
 

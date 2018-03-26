@@ -1,0 +1,10 @@
+---
+headword: whiteboard
+expansion: 
+definition: >
+  An internal app for managing the content of office-wide standup meetings. Anyone with Helps, Interestings, or Events
+  to share out with the office should add them to the whiteboard app. Items added here are sent out in the daily standup
+  email.
+links:
+- https://whiteboard.pivotal.io/
+see_also:

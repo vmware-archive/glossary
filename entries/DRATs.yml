@@ -1,6 +1,9 @@
 ---
 headword: DRATs
-expansion: 
+expansion: Disaster Recovery Acceptance Tests
 definition:
+  Acceptance test suite used to exercise the BOSH Backup and Restore (BBR) functionality.
 links:
+- https://github.com/cloudfoundry-incubator/disaster-recovery-acceptance-tests
 see_also:
+- BBR

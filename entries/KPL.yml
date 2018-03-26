@@ -1,0 +1,11 @@
+---
+headword: KPL
+expansion: Key Priorities List
+definition: >
+  A single spreadsheet-style document where high-level R&D priorities are tracked. Some items are evergreen
+  (e.g. "Fires", "Platform Stability", and "Ship the next release") but other initiatives in the list may rise or fall
+  depending on customer need. This page should be visible to everyone in Pivotal R&D organization because one of the
+  goals of the KPL is to increase transparency around how work is planned and resources allocated.
+links:
+- https://kpl.cfapps.io
+see_also:
