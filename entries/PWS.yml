@@ -1,9 +1,11 @@
 ---
 headword: PWS
 expansion: Pivotal Web Services
-definition: Pivotal's commercial CF-as-a-service offering. CF Deployment maintained
-  by the CloudOps team. This environment is useful for getting feedback on the experience
-  of operating Cloud Foundry at scale.
+definition: >
+  Pivotal's commercial CF-as-a-service offering providing a hosted PaaS service 
+  offering analogous to Heroku. This is a CF Deployment maintained by the CloudOps team. 
+  This environment is useful for getting feedback on the experience of operating Cloud 
+  Foundry at scale.
 links:
 - https://run.pivotal.io
 see_also:
