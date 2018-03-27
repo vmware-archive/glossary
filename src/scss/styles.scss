@@ -29,6 +29,21 @@ body {
   text-align: left;
 }
 
+.entry {
+  padding: 15px 0;
+  max-width: 500px;
+}
+
+.improve {
+  font-family: $mono;
+  font-size: 0.6em;
+  margin-top: 3px;
+
+  a, a:hover, a:visited {
+    color: #999;
+  }
+}
+
 @media all and (max-width: 700px) {
   .entries     { order: 1; }
   .plz-explain { order: 2; } 
@@ -38,11 +53,6 @@ body {
 
 @media all and (min-width: 700px) {
   .plz-explain { flex: 3 none; }
-}
-
-.entry {
-  padding: 15px 0;
-  max-width: 500px;
 }
 
 li {

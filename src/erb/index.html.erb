@@ -5,6 +5,10 @@ def slugify(input)
   .gsub(" ", "-")
   .gsub(/\W/, "")
 end
+
+def github(repo, word)
+  "#{repo}/blob/master/entries/#{word}.yml"
+end
 %>
 
 <html>
@@ -30,7 +34,7 @@ end
       <h2>Can you explain any of these?</h2>
       <div class='needs-work'>
         <% needs_work.each do |e| %>
-        <span><a href="<%= repo_location %>/blob/master/entries/<%= e["headword"] %>.yml"><%= e["headword"] %></a></span>
+        <span><a href="<%= github(repo_location, e['headword']) %>"><%= e["headword"] %></a></span>
         <% end %>
       </div>
     </div>
@@ -69,6 +73,10 @@ end
           <% end %>
         </div>
         <% end %>
+
+        <div class="improve">
+          <a href="<%= github(repo_location, e['headword']) %>">Improve this entry</a>
+        </div>
 
       </div>
       <% end %>  
