@@ -1,3 +1,7 @@
 ---
 headword: PERM
 expansion: Permission Service
+description:
+links:
+- https://github.com/cloudfoundry-incubator/perm
+see_also:

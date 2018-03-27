@@ -1,0 +1,10 @@
+---
+headword: GDPR
+expansion: General Data Protection Regulation
+definition: >
+  A regulation in EU law regarding the storage and sharing of personally identifiable information.
+  Goes into effect May 2018.
+links:
+- https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+see_also:
+- PII
