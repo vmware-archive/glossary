@@ -1,0 +1,9 @@
+---
+headword: SD
+expansion: Service Discovery
+definition: >
+  A project to allow apps cf pushed to the platform
+  to communicate directly with one another.
+links:
+- https://github.com/cloudfoundry/cf-app-sd-release
+see_also:
