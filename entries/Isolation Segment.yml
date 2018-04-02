@@ -1,5 +1,10 @@
 ---
 headword: Isolation Segment
-definition:
+definition: >
+  Isolation segments provide dedicated pools of resources where you can deploy apps and
+  isolate workloads. Use isolation segments to separate app resources as completely as
+  if they were in different PCF deployments—while avoiding redundant management and
+  network complexity.
 links:
+- https://pivotal.io/platform/pcf-components/isolation-segments
 see_also:
