@@ -1,0 +1,8 @@
+---
+headword: SCDF
+expansion: Spring Cloud Data Flow
+definition: >
+  A product to help developers build distributed data pipelines for real-time batch processing.
+links:
+- http://cloud.spring.io/spring-cloud-dataflow/
+see_also:
