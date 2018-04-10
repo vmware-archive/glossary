@@ -1,0 +1,9 @@
+---
+headword: DEA
+expansion: Droplet Execution Agent
+definition: >
+  DEA is the now-deprecated container runtime of Cloud Foundry. Succeeded by Diego, a rewrite of DEA in golang.
+links:
+- https://docs.cloudfoundry.org/concepts/architecture/execution-agent.html
+see_also:
+- Diego

@@ -1,0 +1,12 @@
+---
+headword: Istio
+expansion:
+definition: >
+  An open source service mesh providing capabilities around service discovery,
+  circuit breaking, and security. Istio achieves similar functionality to that
+  provided by Spring Cloud Services for apps in the Spring ecosystem but using
+  language-agnostic sidecar proxies.
+links:
+- https://istio.io/
+see_also:
+- SCS

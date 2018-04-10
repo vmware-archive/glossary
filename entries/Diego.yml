@@ -1,0 +1,9 @@
+---
+headword: Diego
+expansion:
+definition:
+  The container runtime used in Pivotal Cloud Foundry.
+links:
+- https://docs.cloudfoundry.org/concepts/diego/diego-architecture.html
+see_also:
+- DEA

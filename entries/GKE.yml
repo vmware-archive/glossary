@@ -1,0 +1,8 @@
+---
+headword: GKE
+expansion: Google Kubernetes Engine
+definition:
+links:
+- https://cloud.google.com/kubernetes-engine/
+see_also:
+- CFCR

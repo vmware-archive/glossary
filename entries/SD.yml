@@ -2,8 +2,11 @@
 headword: SD
 expansion: Service Discovery
 definition: >
-  A project to allow apps cf pushed to the platform
-  to communicate directly with one another.
+  A project to allow apps cf pushed to the platform to communicate directly
+  with one another. Service Discovery is also a general concept integral to
+  service meshes such as Spring Cloud Services and Istio.
 links:
 - https://github.com/cloudfoundry/cf-app-sd-release
 see_also:
+- Istio
+- SCS
