@@ -1,6 +1,6 @@
 ---
 headword: ORM
-expansion: 
-definition:
-links:
-see_also:
+expansion: Object Relational Mapping 
+definition: Converts between the relational mapping in a database (see relational database) and an Object in an object oriented language.
+links: https://en.wikipedia.org/wiki/Object-relational_mapping
+see_also: 
