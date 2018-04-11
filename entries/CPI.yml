@@ -1,6 +1,6 @@
 ---
 headword: CPI
 expansion:
-definition:
-links:
-see_also:
+definition: Cloud Provider Interface. An abstraction layer that helps platforms communicate generically with IaaS offerings. In PCF development, this is usually used in the context of BOSH-IaaS communication.
+links: https://bosh.io/docs/bosh-components.html#cpi
+see_also: IaaS, PCF, BOSH
