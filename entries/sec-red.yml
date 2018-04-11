@@ -1,7 +1,9 @@
 ---
 headword: sec-red
 expansion:
-definition: 
+definition: >
+ One of the three color designations for Pivotal security incidents. If a particular task is designated sec-red, it means that the task shouldn't interrupt current work, but should be the next story to be picked up. A sec-red task shouldn't be worked on outside of normal business hours.
 links:
 see_also:
-
+ - sec-yellow
+ - sec-black
