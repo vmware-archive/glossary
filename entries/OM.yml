@@ -2,5 +2,6 @@
 headword: OM
 expansion: Operations Manager
 definition: A command line tool to interact with opsmanager. It is maintained by the release engineering team.
-links: https://github.com/pivotal-cf/om
+links:
+- https://github.com/pivotal-cf/om
 see_also:
