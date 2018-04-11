@@ -1,6 +1,9 @@
 ---
 headword: SI
 expansion: Service Instance
-definition:
+definition: >
+  The unit of deployment for data services. The more units a customer consume, the more likely 
+  they are to renew their subscription.
 links:
 see_also:
+- AI
