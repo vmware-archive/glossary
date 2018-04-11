@@ -15,5 +15,5 @@ definition: >
   which is a service broker representing the service ElephantSQL for the Platform.
 links:
 - https://www.openservicebrokerapi.org/
-see_also:
 - https://github.com/openservicebrokerapi/servicebroker
+see_also:
