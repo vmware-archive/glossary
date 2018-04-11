@@ -1,6 +1,6 @@
 ---
 headword: UAA
-expansion: Universal Account and Authentication
+expansion: User Account and Authentication
 definition: UAA is the component of a CF deployment responsible for user authentication
   and authorization. It acts as an identity proxy by integrating with external identity
   providers (e.g. Okta, Centrify, Ping Identity, etc) and exposing an OAuth interface
