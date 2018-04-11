@@ -1,7 +1,7 @@
 ---
 headword: OSBAPI
 expansion: Open Service Broker API
-definition:
+definition: A specification for communication between service brokers and platforms.
 links:
 - https://github.com/openservicebrokerapi/servicebroker/blob/v2.13/spec.md
 see_also:
