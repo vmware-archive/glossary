@@ -2,10 +2,8 @@
 headword: PASW
 expansion: PAS for Windows
 definition: >
-  Pivotal Application Service for Windows (formerly known as PCF Runtime for Windows) gives developers the
-  ability to push applications powered by the .NET Framework, the Windows® Server 2012 R2 operating system, and
-  IronFrame containerization framework.
+  Pivotal Application Service for Windows is a complete, scalable runtime environment that enables developers to host applications powered by the .NET Framework, the Windows® Server 2016 operating system, and Windows Server Containers.
 links:
-- https://network.pivotal.io/products/p-windows-runtime
+- https://network.pivotal.io/products/pas-windows
 - https://pivotal.io/platform/pcf-components/pas-for-windows
 see_also:

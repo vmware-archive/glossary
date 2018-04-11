@@ -1,0 +1,8 @@
+---
+headword: PASW 2012R2
+expansion: PAS for Windows 2012R2
+definition: >
+  Pivotal Application Service for Windows 2012R2 (formerly known as PCF Runtime for Windows) gives developers the ability to push applications powered by the .NET Framework, the Windows® Server 2012 R2 operating system, and IronFrame containerization framework.
+links:
+- https://network.pivotal.io/products/p-windows-runtime
+see_also:
