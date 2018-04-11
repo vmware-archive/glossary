@@ -1,0 +1,10 @@
+---
+headword: OSLO
+expansion: Open Source License Observer
+definition: >
+  OSLO is the user facing application that legal review team members use to review and add information about
+  dependencies, their licenses, copyright information that must legally be reproduced, notes about usage, EULA
+  requirements, etc.
+links:
+- https://oslo.cfapps.io
+see_also:

@@ -1,5 +1,11 @@
 ---
 headword: toolsmiths
-definition:
+definition: >
+  For the Cloud Foundry Toolsmiths, Our vision is to provide value to R&D. 
+  We maintain shared services for R&D engineering teams, including 10 private datacenters and 8 custom applications. 
+  We create upwards of 2,000 PCFs per month on GCP for Pivotal Employees. 
+  Additionally, we help troubleshoot problems at all levels of the stack that are impeding teams.
 links:
 see_also:
+- Gemfire Toolsmiths
+- PA Toolsmiths

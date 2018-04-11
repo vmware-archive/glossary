@@ -1,6 +1,9 @@
 ---
 headword: Azure
-expansion: 
-definition:
+expansion:
+definition: Microsoft's cloud platform.
 links:
+- https://azure.microsoft.com
 see_also:
+  - AWS
+  - GCP

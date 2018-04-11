@@ -1,0 +1,9 @@
+---
+headword: ASG
+expansion: Application Security Groups
+definition: >
+  Application Security Groups (ASGs) are a collections of egress 
+  rules that specify the protocols, ports, and IP address ranges 
+  where app or task instances send traffic.
+links:
+  - https://docs.pivotal.io/pivotalcf/2-1/concepts/asg.html
