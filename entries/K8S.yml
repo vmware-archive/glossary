@@ -3,6 +3,7 @@ headword: K8S
 expansion: Kubernetes
 definition: >
   An open source project started by Google to manage the lifecycle of container workloads.
+  8 is for eight letter between K and s.
 links:
 - https://kubernetes.io/
 see_also:
