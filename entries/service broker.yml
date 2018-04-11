@@ -1,6 +1,16 @@
 ---
-headword: service broker
+headword: Service Broker
 expansion: 
-definition:
+definition: >
+The Service Broker API defines an HTTP interface between the services marketplace of a platform and service brokers.
+The service broker is the component of the service that implements the Service Broker API, for which a platform's marketplace is a client. 
+Service brokers are responsible for advertising a catalog of service offerings and service plans to the marketplace, and acting on requests from the marketplace for provisioning, binding, unbinding, and deprovisioning.
+
+If you look at the Pivotal Application Service Apps Manager interface you will see some of the services listed like ElephantSQL - PostgresQL service
+which is a service broker representing the service ElephantSQL for the Platform.
+
+
 links:
+- https://www.openservicebrokerapi.org/
 see_also:
+- https://github.com/openservicebrokerapi/servicebroker
