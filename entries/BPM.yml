@@ -1,5 +1,11 @@
 ---
 headword: BPM
-expansion: BOSH Process Management
+expansion: BOSH Process Manager
+definition: >
+  BOSH Process Manager is a tool for starting your BOSH jobs in a consistent,
+  contained, and surprise-free environment. Older documents may refer to the
+  project as "Crucible".
 links:
 - https://github.com/cloudfoundry-incubator/bpm-release
+see_also:
+- BOSH
