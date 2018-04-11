@@ -11,7 +11,7 @@ definition: >
   Foundry installation. Operations Manager provides them a highly opinionated
   configuration of BOSH, automated creation and management of BOSH manifests,
   and automates the individual BOSH commands used to perform deploys.
-  Authors of tiles, at both Pivotal and at partner organizations, use 
+  Authors of tiles, at both Pivotal and at partner organizations, use
   Operations Manager as a Software Development Kit for tiles, in the sense
   that Operations Manager defines how to write a tile and interprets the
   the tiles at runtime.
@@ -19,4 +19,5 @@ links:
 - https://pivotal.io/platform/pcf-components/pcf-ops-manager
 - https://network.pivotal.io/products/ops-manager
 see_also:
+- OM
 - tile

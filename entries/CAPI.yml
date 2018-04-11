@@ -1,6 +1,6 @@
 ---
 headword: CAPI
-expansion: Cloud API
+expansion: Cloud Controller API
 definition: >
   The Cloud API is provided by a CF component sometimes referred to as Cloud Controller. When a user of
   CF  uses the cf-cli to push an application, the cf-cli makes HTTP calls to CAPI.

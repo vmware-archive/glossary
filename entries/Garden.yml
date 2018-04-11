@@ -1,0 +1,7 @@
+---
+headword: Garden
+definition: >
+  Garden is a platform-agnostic Go API for container creation and management,
+  with pluggable backends for different platforms and runtimes.
+links:
+- https://github.com/cloudfoundry/garden

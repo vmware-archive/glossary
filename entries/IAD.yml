@@ -1,6 +1,8 @@
 ---
 headword: IAD
-expansion: 
-definition:
+expansion: Internal Application Development
+definition: >
+  A team within Pivotal responsible for developing applications for internal use,
+  such as Panorama (and previously, Allocations and Pivots)
 links:
 see_also:

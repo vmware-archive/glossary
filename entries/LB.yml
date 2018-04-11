@@ -1,0 +1,6 @@
+---
+headword: LB
+expansion: Load Balancer
+definition: >
+  A physical or virtual component of a network intended to balance network
+  traffic load to some number of backend servers.

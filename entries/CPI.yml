@@ -2,12 +2,22 @@
 headword: CPI
 expansion: Cloud Provider Interface
 definition: >
-  Cloud Provider Interface. An abstraction layer that helps platforms
-  communicate generically with IaaS offerings. In PCF development, this is
-  usually used in the context of BOSH-IaaS communication.
+  BOSH makes it easy to deploy software to any cloud/IaaS, and even to various container
+  runtimes like Docker, Kubernetes, and Garden.  There are several core implementations
+  of the CPI, e.g. the vSphere CPI, but anyone can build their own.  A CPI implementation
+  encapsulates the specifics of managing things like VMs/containers and disks so that the
+  core of BOSH, as well as the software deployed by BOSH, can remain "IaaS-agnostic".
 links:
   - https://bosh.io/docs/bosh-components.html#cpi
 see_also:
 - IaaS
-- PCF
 - BOSH
+- AWS
+- Azure
+- GCP
+- PCF
+- vSphere
+- OpenStack
+- Kubernetes
+- docker
+- Garden

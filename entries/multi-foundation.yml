@@ -1,7 +1,16 @@
 ---
 headword: multi-foundation
 expansion:
-definition: 
+definition: >
+  In the context of PCF, a "foundation" usually consists of a deployment of
+  Pivotal Application Service deployed by BOSH or Operations Manager.  Most
+  Pivotal customers deploy multiple foundations for a variety of reasons,
+  which introduces a wide array of challenges.  "Multi-foundation" broadly
+  refers to the use cases and challenges for developers and operators
+  interacting with multiple foundations.
 links:
+- https://realtimeboard.com/app/board/o9J_kzg2-ag=/
+- https://docs.google.com/presentation/u/1/d/1fO55-Zbx92HnQwL0ejCnR8PvyRbhBz9Qno1iQGwjXP4
 see_also:
+- MFMS
 

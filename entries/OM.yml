@@ -5,3 +5,4 @@ definition: A command line tool to interact with opsmanager. It is maintained by
 links:
 - https://github.com/pivotal-cf/om
 see_also:
+- OpsMan
