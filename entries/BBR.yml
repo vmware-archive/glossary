@@ -2,7 +2,7 @@
 headword: BBR
 expansion: BOSH Backup and Restore
 definition: >
-  A framework for backing up and destroying BOSH deployments and BOSH Directors.
+  A framework for backing up and restoring BOSH deployments and BOSH Directors.
 links:
 - https://docs.cloudfoundry.org/bbr/
 - https://github.com/cloudfoundry-incubator/bosh-backup-and-restore

@@ -1,7 +1,9 @@
 ---
 headword: sec-black
 expansion:
-definition: 
+definition: >
+ One of the three color designations for Pivotal security incidents. If a particular task is designated sec-black, it means that the task needs to interrupt current work and the team is expected to work after hours (within reason) until the task is finished. A sec-black for a CF team can only be called by a CF VP or higher.
 links:
 see_also:
-
+ - sec-yellow
+ - sec-red

@@ -1,5 +1,8 @@
 ---
 headword: stemcell
-definition:
+definition: >
+ A versioned Operating System image wrapped with IaaS-specific packaging.
 links:
+ - http://bosh.cloudfoundry.org/docs/stemcell.html
 see_also:
+ - bosh

@@ -1,7 +1,12 @@
 ---
 headword: Kubo
-expansion: 
-definition:
-links:
+expansion: Kubernetes on Bosh
+definition: >
+  A combined effort between Pivotal, Google, and VMware, enabling
+  users to deploy Kubernetes clusters on BOSH. This project has 
+  been renamed to CFCR (Cloud Foundry Container Runtime).
+links: 
+- https://pivotal.io/partners/kubo
+- https://www.cloudfoundry.org/container-runtime/
 see_also:
 - CFCR

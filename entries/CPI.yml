@@ -8,8 +8,9 @@ definition: >
   encapsulates the specifics of managing things like VMs/containers and disks so that the
   core of BOSH, as well as the software deployed by BOSH, can remain "IaaS-agnostic".
 links:
+  - https://bosh.io/docs/bosh-components.html#cpi
 see_also:
-- IAAS
+- IaaS
 - BOSH
 - AWS
 - Azure

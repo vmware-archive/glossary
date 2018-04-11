@@ -1,6 +1,6 @@
 ---
 headword: GTM
-expansion: Go To Market
-definition:
+expansion: Global Traffic Manager
+definition: A load balancing module for some F5 Networks appliances
 links:
 see_also:

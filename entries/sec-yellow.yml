@@ -1,7 +1,10 @@
 ---
 headword: sec-yellow
 expansion:
-definition: 
+definition: >
+ One of the three color designations for Pivotal security incidents. If a particular task is designated sec-yellow, it means that the task should be pointed at the next IPM and should be completed within a few iterations if possible.
 links:
 see_also:
-
+ - IPM
+ - sec-red
+ - sec-black

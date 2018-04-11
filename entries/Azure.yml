@@ -1,9 +1,10 @@
 ---
 headword: Azure
-expansion: 
-definition: >
-  Microsoft's IaaS offering.
+expansion:
+definition: Microsoft's cloud platform.
 links:
-- https://azure.microsoft.com/en-us/?v=18.05
+- https://azure.microsoft.com
 see_also:
-- IAAS
+- AWS
+- GCP
+- IaaS

@@ -2,8 +2,14 @@
 headword: ISV
 expansion: Independent Software Vendor
 definition: >
-  In the context of Pivotal, ISVs often seek to partner with Pivotal by offering
-  their own products in a way that integrates with our products to the benefit of
-  our shared customers.
+  An independent software vendor (ISV) is an organization specializing in making and selling software.
+  In our context, this usually refers to a company building, or providing commercial support for, a
+  software product adjacent to Cloud Foundry that customer applications may depend on. Examples of
+  such products include databases, application performance monitoring (APM) products, and API gateways.
+  We partner with many of these ISVs to help them integrate their products with Pivotal Cloud Foundry,
+  typically resulting in a partner tile on Pivotal Network (PivNet).
 links:
 see_also:
+- PivNet
+- tile
+- APM
