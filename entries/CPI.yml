@@ -1,6 +1,6 @@
 ---
 headword: CPI
-expansion:
+expansion: Cloud Provider Interface
 definition: >
   Cloud Provider Interface. An abstraction layer that helps platforms
   communicate generically with IaaS offerings. In PCF development, this is
