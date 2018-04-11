@@ -1,6 +1,6 @@
 ---
 headword: CPI
-expansion:
-definition:
-links:
+expansion: Cloud Provider Interface
+definition: Used by BOSH to abstract IaaS specific API's into a common interface.
+links: https://bosh.io/docs/bosh-components.html#cpi
 see_also:
