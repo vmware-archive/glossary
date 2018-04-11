@@ -1,7 +1,7 @@
 ---
 headword: ODB
 expansion: On-Demand (Service) Broker
-definition:
+definition: An Open Source component that provides service authors with a generic way to use BOSH to deploy service instances. 
 links:
 - https://github.com/pivotal-cf/on-demand-services-sdk
 see_also:
