@@ -1,6 +1,9 @@
 ---
 headword: ISV
-expansion: 
-definition:
+expansion: Independent Software Vendor
+definition: >
+  In the context of Pivotal, ISVs often seek to partner with Pivotal by offering
+  their own products in a way that integrates with our products to the benefit of
+  our shared customers.
 links:
 see_also:

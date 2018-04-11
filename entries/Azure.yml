@@ -1,6 +1,9 @@
 ---
 headword: Azure
 expansion: 
-definition:
+definition: >
+  Microsoft's IaaS offering.
 links:
+- https://azure.microsoft.com/en-us/?v=18.05
 see_also:
+- IAAS
