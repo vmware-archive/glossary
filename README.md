@@ -17,6 +17,10 @@ This project aims to make Pivotal a more inclusive environment by explicitly
 defining the terms, acronyms, initialisms, abbreviations, and jargon used
 throughout our company.
 
+## Visit the glossary
+
+[https://cf-glossary.cfapps.io](https://cf-glossary.cfapps.io)
+
 ## Contributing entries
 
 The site is generated from yaml files located in the `/entries` directory. An
@@ -42,6 +46,8 @@ Other than `headword`, all fields are considered optional.
 
 These files can be created and edited manually. Or, to get started on a new
 entry, you can create an empty template by running `rake add_word["Pair Programming"]`.
+
+To preview how the site will look with new entries, build it with `rake && open build/index.html`
 
 ## Acknolwedgements
 
