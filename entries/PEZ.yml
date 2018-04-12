@@ -1,8 +1,9 @@
 ---
 headword: PEZ
 expansion: Pivotal Elastic Zones
-definition: 
+definition: A PCF foundation hosted by Pivotal, for internal dogfooding of PCF and services. Now replaced by PCF Beta.
 links:
-- https://pez.pivotal.io/
-see_also: 
-
+see_also:
+- PCF Beta
+- dogfooding
+- tile

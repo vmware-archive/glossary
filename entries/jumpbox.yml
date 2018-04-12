@@ -1,6 +1,7 @@
 ---
 headword: jumpbox
-expansion: 
-definition:
+expansion:
+definition: A server with the sole purpose of providing access to a restricted network, typically via SSH tunneling or remote desktop.
 links:
-see_also:
+- https://en.wikipedia.org/wiki/Jump_server
+ee_also:

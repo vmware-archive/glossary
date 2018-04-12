@@ -1,6 +1,7 @@
 ---
 headword: GCP
 expansion: Google Cloud Platform
-definition:
+definition: Google's cloud platform
 links:
+- https://cloud.google.com/
 see_also:
