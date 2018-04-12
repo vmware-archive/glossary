@@ -1,0 +1,7 @@
+---
+headword: RMQ
+expansion: RabbitMQ
+definition: An open source message broker developed by Pivotal.
+links:
+- https://www.rabbitmq.com/
+see_also:
