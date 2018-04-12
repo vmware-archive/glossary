@@ -1,0 +1,10 @@
+---
+headword: PCF Beta
+expansion:
+definition: An internally-hosted version of PCF, including most Pivotal-built tiles, and a few partner tiles, for dogfooding and demo purposes.
+links:
+- https://start.pcfbeta.io/
+- https://apps.run.pcfbeta.io/
+see_also:
+- dogfooding
+- tile

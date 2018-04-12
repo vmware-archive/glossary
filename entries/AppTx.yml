@@ -1,6 +1,9 @@
 ---
 headword: AppTx
 expansion: App Transformation
-definition:
+definition: >
+  A service offered by Pivotal, as a division within Labs, aimed at replatforming existing enterprise applications to the cloud.
 links:
+- https://pivotal.io/replatforming
 see_also:
+- replatforming
