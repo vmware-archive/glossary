@@ -1,0 +1,10 @@
+---
+headword: STOMP
+expansion: Simple (or Streaming) Text Orientated Messaging Protocol
+definition: >
+  A set of client and server protocols for the sending and receiving of
+  messages between distributed systems. This message protocol implemented by
+Pivotal's RabbitMQ.  links:
+- https://stomp.github.io/
+- https://docs.spring.io/spring-integration/reference/html/stomp.html
+see_also:
