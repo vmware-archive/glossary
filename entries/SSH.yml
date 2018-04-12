@@ -1,0 +1,8 @@
+---
+headword: SSH
+expansion: Secure SHell
+definition: >
+  SSH provides a way of connecting to remote servers from your computer.
+links:
+- https://www.ssh.com/ssh/
+see_also:

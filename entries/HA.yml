@@ -1,0 +1,10 @@
+---
+headword: HA
+expansion: High Availability
+definition:
+links:
+- https://en.wikipedia.org/wiki/High_availability
+see_also:
+- SLI
+- SLA
+- SLO

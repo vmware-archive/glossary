@@ -1,0 +1,9 @@
+---
+headword: CSR
+expansion: Certificate Signing Request
+definition: >
+  A CSR is what is sent from a client to a Certificate Authority when requesting a digital
+  identity certificate. CSRs can be generated using tools such as openssl.
+links:
+- https://en.wikipedia.org/wiki/Certificate_signing_request
+see_also:
