@@ -1,0 +1,9 @@
+---
+headword: IETF
+expansion: Internet Engineering Task Force
+definition: >
+  IETF is an organization responsible for developing Internet standards.
+links:
+- https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
+see_also:
+- RFC
