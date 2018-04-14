@@ -1,0 +1,18 @@
+---
+headword: OAuth2
+expansion:
+definition: >
+  OAuth2 is a standard designed to solve the problem of delegated authorization.
+  It is used when an application, called a Client, wants to perform some action
+  in another application, called a Resource Server, on behalf of a user. By
+  implementing one of the procedures defined in the OAuth2 specification, Clients
+  may receive an access token that represents the permissions the user has
+  consented to delegate to the Client. The Client passes the token to the
+  Resource Server when making API calls on a user's behalf.  Resource Servers
+  validate the access token to ensure required permissions are present before
+  completing API requests.
+links:
+- https://tools.ietf.org/html/rfc6749
+see_also:
+- OIDC
+- JWT

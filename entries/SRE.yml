@@ -1,6 +1,14 @@
 ---
 headword: SRE
 expansion: Site Reliability Engineer or Site Reliability Engineering
-definition:
+definition: >
+  A term first coined at Google, an SRE is someone concerned with the processes
+  and practices around the lifecycle of applications, and especially those
+  aspects that contribute to the availability and reliability of software.
+  Engineers at Google have published an influential book on the topic of
+  explaining how they build, deploy, monitor, and maintain applications used by
+  millions of users.
 links:
+- https://landing.google.com/sre/
+- https://landing.google.com/sre/book.html
 see_also:

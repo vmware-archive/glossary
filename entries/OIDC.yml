@@ -1,0 +1,16 @@
+---
+headword: OIDC
+expansion: OpenID Connect
+definition: >
+  OpenID Connect is a set of standards designed to solve the problem of
+  delegated identity. Using OpenID Connect, applications acting as OIDC Relying
+  Parties may receive a JWT-encoded identity token from an Identity Provider
+  that contains user information such as username, email address, first and last
+  names, and other configurable attributes. Within Cloud Foundry, the UAA
+  component can be configured to act as an OIDC Identity Provider or proxy user
+  information from OIDC Identity Providers external to the platform.
+links:
+- http://openid.net/connect/
+see_also:
+- UAA
+- OAuth
