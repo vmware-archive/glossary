@@ -1,0 +1,9 @@
+---
+headword: TTL
+expansion: Time To Live
+definition: >
+  Refers to the useful lifetime of data that expires. The concept of TTL is used
+  in many contexts, from browser cookies, to networking, to the in-memory caches
+  some applications use to improve performance. 
+links:
+see_also:
