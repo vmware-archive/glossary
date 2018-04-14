@@ -1,0 +1,10 @@
+---
+headword: NORM
+expansion: Normalized Foundation Management
+definition: >
+  The NORM team is responsible for the install and upgrade pipelines
+  for Pivotal Cloud Foundry. This product is consumed by the C[0]
+  team to assist in dojos and long term support of the platform.
+links:
+see_also:
+- C[0]
