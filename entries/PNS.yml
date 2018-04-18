@@ -1,0 +1,8 @@
+---
+headword: PNS
+expansion: Pivotal Notification Service
+definition: >
+  A PCF add-on that allows application developers to easily send push notifications to mobile phones.
+links:
+- https://docs.pivotal.io/push
+see_also:

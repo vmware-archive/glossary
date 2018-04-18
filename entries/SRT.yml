@@ -1,0 +1,8 @@
+---
+headword: SRT
+expansion: Small-Footprint Runtime
+definition: >
+  An alternative to PAS/ERT that uses fewer VMs.
+links:
+- https://docs.pivotal.io/pivotalcf/customizing/small-footprint.html
+see_also:
