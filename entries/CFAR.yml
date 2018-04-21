@@ -1,7 +1,12 @@
 ---
 headword: CFAR
-expansion: CF Application Runtime
-definition:
+expansion: Cloud Foundry Application Runtime
+definition: >
+  Open source platform for deploying applications to public or private clouds.
+  Previously known simply as "Cloud Foundry".
 links:
 - https://www.cloudfoundry.org/application-runtime/
 see_also:
+- CFCR
+- PAAS
+- PAS
