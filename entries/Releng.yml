@@ -1,5 +1,12 @@
 ---
 headword: Releng
 expansion: Release Engineering
-definition: This team works on testing combinations of CF components that will go
-  into a commercial PCF release.
+definition: >
+  This team ships the commericial release of the PAS tile (formerly known as ERT)
+  and related products like the Small Footprint Runtime (SRT) and Windows Runtime (WRT) tiles.
+  The RelEng team maintains Concourse pipelines that test the combinations of open- and closed-source components that comprise PAS.
+see_also:
+- PAS
+- CFAR
+- tile
+- ERT
