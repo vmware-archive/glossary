@@ -1,8 +1,8 @@
 ---
 headword: CFCR
-expansion: CF Container Runtime
+expansion: Cloud Foundry Container Runtime
 definition: >
-  Formerly known as Kubo. This project relates to deploying Kubernetes clusters using BOSH.
+  An open-source Kubernetes distribution that runs on BOSH.  Formerly known as Kubo.
 links:
 - https://www.cloudfoundry.org/container-runtime/
 see_also:
