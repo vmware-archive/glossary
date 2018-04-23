@@ -1,6 +1,10 @@
 ---
 headword: spike
-expansion: 
-definition:
+expansion:
+definition: >
+  An timeboxed engineering effort to understand the risks and complexity
+  inherent in some planned work.
 links:
+- https://medium.com/studio-zero/spikes-pocs-prototypes-and-the-mvp-5cdffa1b7367
 see_also:
+- timebox

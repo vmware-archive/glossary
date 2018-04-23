@@ -1,6 +1,7 @@
 ---
 headword: PCI
-expansion: 
-definition:
+expansion: Payment Card Industry (Data Security Standard)
+definition: Security standard that many Pivotal customers must comply with.
 links:
+- https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 see_also:

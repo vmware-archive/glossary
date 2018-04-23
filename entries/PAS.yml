@@ -1,7 +1,9 @@
 ---
 headword: PAS
 expansion: Pivotal Application Service
-definition:
+definition:  Pivotal's closed-source distribution of the Cloud Foundry Application Runtime.
 links:
 see_also:
 - ERT
+- CFAR
+- Releng

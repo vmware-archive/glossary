@@ -1,5 +1,7 @@
 ---
 headword: gorouter
-definition:
+definition: The HTTP Router deployed with CFAR.  All HTTP traffic, for both Apps and other system components, passes through gorouter.
 links:
+- https://docs.cloudfoundry.org/concepts/architecture/router.html
 see_also:
+- CFAR

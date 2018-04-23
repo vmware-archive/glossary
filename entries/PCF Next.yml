@@ -1,6 +1,11 @@
 ---
 headword: PCF Next
-expansion: 
-definition:
+expansion:
+definition: >
+  The next, not-yet-released version of PCF PAS.
+  Or the Concourse pipelines used by the RelEng team to build that product.
 links:
 see_also:
+- PAS
+- Releng
+- Concourse

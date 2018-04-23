@@ -1,0 +1,9 @@
+---
+headword: timebox
+expansion:
+definition: >
+  An artificial time limit placed on an effort.
+  Often used to prevent scope creep in an engineering spike.
+links:
+see_also:
+- spike
