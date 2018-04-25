@@ -1,0 +1,16 @@
+---
+headword: NSX
+expansion: Network Hypervisor
+definition: >
+  NSX is an advanced network provider for virtualized environments, 
+  created and owned by VMware (acquired through Nicira).
+
+  It is capable of creating a number of software defined network constructs 
+  such as networks, switches, routers, load balancers, firewalls and allows 
+  for a higher and more granular degree of security to be applied in supported environments.
+
+  NSX-V is the version of the product compatible with VMware vSphere only.
+  NSX-T is the version compatible with multiple platforms - vSphere, RHEL KVM and Ubuntu KVM
+links:
+- https://thenewstack.io/nsx-t-vmwares-networking-solution-modern-multicloud-applications/
+see_also:
