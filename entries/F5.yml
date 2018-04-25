@@ -1,6 +1,13 @@
 ---
 headword: F5
-expansion: 
-definition:
+expansion: F5 BIG-IP Local Traffic Manager load balancer
+definition: >
+  F5 (the company) was originally known just for their load balancing product. 
+  Today they have a whole suite of products and services around load balancing/acceleration, 
+  traffic shaping, firewalls, security etc.
+
+  However, in the Pivotal world, we mostly know them for their load balancer that is often used in front of 
+  the gorouters as an entry point to Pivotal Cloud Foundry when deployed on a private cloud such as vSphere.
 links:
+- https://f5.com/products/big-ip/local-traffic-manager-ltm
 see_also:
