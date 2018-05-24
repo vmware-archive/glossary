@@ -1,0 +1,10 @@
+---
+headword: PRA
+expansion: Pivotal Ready Architecture
+definition: >
+  PRA is now GA and available from our friends at Dell EMC. PRA is the fastest way 
+  to deploy PCF v2.x on premise (using VxRail appliances).
+links:
+- https://pivotal.io/pivotal-ready-architecture
+see_also:
+- SST
