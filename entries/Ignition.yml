@@ -1,0 +1,10 @@
+---
+headword: Ignition
+expansion: Ignition
+definition: >
+  A landing page for developers to self-service their way onto your Pivotal Cloud Foundry (PCF)
+  deployment(s). Authenticates the user via OpenID Connect (which implicitly uses OAuth 2.0)
+  Allows the user to access Apps Manager and view their personal PCF org.
+links:
+- https://github.com/pivotalservices/ignition
+see_also:
