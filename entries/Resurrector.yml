@@ -1,6 +1,6 @@
 ---
 headword: Resurrector
 expansion: 
-definition:
+definition: It is a process within BOSH that keeps an eye on BOSH managed virtual machines (VM) and resurrect (recreate) a VM if it is unhealthy or dead.
 links:
 see_also:
