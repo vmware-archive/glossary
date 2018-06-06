@@ -1,0 +1,13 @@
+---
+headword: SST
+expansion: Site Survey Tool
+definition: >
+  A tool developed by Dell EMC which is intended to test a vSphere cluster to ensure that all 
+  network paths are fully functional, that network resources (like NTP & DNS servers) are 
+  reachable, and that storage is fully accessible, etc. Delivered as an VMDK image that 
+  presents a web interface once booted; after all the vCenter information is entered a test 
+  VM is deployed to every single physical host in the cluster, and communication paths are 
+  tested between every test VM, and every other test VM. 
+links:
+see_also:
+- PRA
