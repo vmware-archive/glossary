@@ -6,7 +6,7 @@ definition: >
 links:
   - https://network.pivotal.io
 see_also:
-  - OpsMan
+  - OpsManager
   - tile
   - PCF
 
