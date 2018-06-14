@@ -1,6 +1,12 @@
 ---
 headword: Steeltoe
-expansion: 
-definition:
-links:
+definition: >
+  Steeltoe is an open source project originally built to allow .NET applications to leverage 
+  Spring Cloud Services, and many Cloud Foundry tools, services, and conventions in a simple way. 
+  Steeltoe contains Connectors for common backing services, Actuators to expose application health and 
+  other troubleshooting information, Security Providers (for UAA and SSO), as well as .NET clients for
+  Eureka, Spring Cloud Config Server, and Hystrix. It's primarily built and maintained by Pivotal but is 
+  part of the open source .NET Foundation.
+links: 
+- https://steeltoe.io
 see_also:
