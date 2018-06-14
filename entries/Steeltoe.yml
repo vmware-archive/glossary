@@ -7,5 +7,6 @@ definition: >
   other troubleshooting information, Security Providers (for UAA and SSO), as well as .NET clients for
   Eureka, Spring Cloud Config Server, and Hystrix. It's primarily built and maintained by Pivotal but is 
   part of the open source .NET Foundation.
-links: https://steeltoe.io
+links: 
+- https://steeltoe.io
 see_also:
