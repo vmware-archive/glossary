@@ -1,8 +1,11 @@
 ---
 headword: OM
 expansion: Operations Manager
-definition: A command line tool to interact with opsmanager. It is maintained by the release engineering team.
+definition: >
+  In its capitalized form, OM is an abbreviation for Operations Manager
+  In lowercase, it usually refers to the command line tool maintained by 
+  the Release Engineering team to interact with Operatrions Manager.
 links:
 - https://github.com/pivotal-cf/om
 see_also:
-- OpsMan
+- OpsManager
