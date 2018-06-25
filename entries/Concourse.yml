@@ -1,7 +1,7 @@
 ---
 headword: Concourse
 expansion: 
-definition:
+definition: Open source CI system
 links:
 - https://concourse-ci.org
 see_also:
