@@ -1,4 +1,4 @@
-<% 
+<%
 def slugify(input)
   input
   .downcase
@@ -26,7 +26,7 @@ end
   <div class="wrapper">
     <div class="header">
       <div class="title">PEDANT</div>
-      <div class="expansion">Pivotal Electronic Dictionary of Arcane Nomenclature and Terms</div>    
+      <div class="expansion">Pivotal Electronic Dictionary of Arcane Nomenclature and Terms</div>
     </div>
 
     <% if needs_work.size > 0 %>
@@ -48,7 +48,7 @@ end
         </div>
 
         <div class="expansion">
-          <%= e['expansion'] %>  
+          <%= e['expansion'] %>
         </div>
 
         <% if e['definition'] %>
@@ -79,7 +79,7 @@ end
         </div>
 
       </div>
-      <% end %>  
+      <% end %>
     </div>
   </div>
 </body>
