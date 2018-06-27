@@ -7,6 +7,7 @@ task :build do
     FileUtils.rm_rf('build')
     FileUtils.mkdir_p('build')
     `ruby ./build.rb > build/index.html`
+    `ruby ./build_words_json.rb > build/words.json`
     `sass "src/scss/styles.scss" "build/styles.css"`
 end
 
