@@ -1,1 +1,2 @@
 root: build
+location_include: includes/*.conf
