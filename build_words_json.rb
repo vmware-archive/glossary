@@ -3,11 +3,11 @@
 require 'yaml'
 require 'json'
 
-entries = []
+entries = {}
 Dir.new('entries').each do |filename|
   if filename.end_with? '.yml'
     e = YAML.load_file("entries/#{filename}")
-    entries << e
+    entries[e['headword'].downcase] = e
   end
 end
 
