@@ -1,0 +1,11 @@
+---
+headword: OS
+expansion: Operating System / OpenStack
+definition: >
+  If "OS" is used in the context of an IaaS discussion, it may be referring to OpenStack.
+links:
+- https://en.wikipedia.org/wiki/Operating_system
+see_also:
+- OpenStack
+- iaas
+- stemcell
