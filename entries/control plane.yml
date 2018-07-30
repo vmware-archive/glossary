@@ -1,0 +1,8 @@
+---
+headword: Control Plane
+expansion:
+definition: >
+  The part of PKS or PAS that is responsible for running the cluster.
+  This is different from the Data Plane where the user's applications run.
+links:
+see_also:
