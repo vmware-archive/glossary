@@ -1,7 +1,15 @@
 ---
 headword: IST
 expansion: Isolation Segment Tile
-definition:
+definition: >
+The Isolation Segment tile deploys compute and/or routing resouces of the Pivotal Application Service (PAS), without the control plane.
+
+> [It] offers Compute Isolation and Routing Isolation. And these features are not mutually exclusive. Operators can mix and match them to fit their needs.
+>
+> The mechanism for Compute Isolation is the deployment of Diego cells earmarked for this purpose. The Isolation Segments tile deploys a user-specified number of Diego cells that will connect to, and receive workloads from, the shared Elastic Runtime control-plane.
+>
+> For Routing Isolation, the tile offers a set of dedicated routers. These routers can be configured with their own TLS certificates. And they can be attached to their own load balancer, which allows inbound traffic to be completely isolated at the routing tier.
 links:
 - https://network.pivotal.io/products/p-isolation-segment
-see_also:
+- https://content.pivotal.io/blog/tutorial-using-isolation-segments-in-pcf-for-hub-and-spoke-isolation
+see_also: PAS
