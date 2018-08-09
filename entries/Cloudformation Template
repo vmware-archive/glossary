@@ -1,6 +1,0 @@
----
-headword: Cloudformation Template
-definition: >
-Configuration information for AWS that acts like code (can be versioned, etc.)
-links:
-see_also:
