@@ -11,7 +11,7 @@ definition: >
   binding, unbinding, and deprovisioning.
 
   If you look at the Pivotal Application Service Apps Manager interface you will
-  see some of the services listed like ElephantSQL - PostgresQL service
+  see some of the services listed like ElephantSQL - PostgreSQL service
   which is a service broker representing the service ElephantSQL for the Platform.
 links:
 - https://www.openservicebrokerapi.org/
