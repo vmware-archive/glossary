@@ -57,3 +57,11 @@ all the time. I don't think we would have had that conversation if not for the
 Inclusion workshop organized for us by Gareth Smith.
 
 My humorous acronyming has been inspired by [this delightful piece](https://www.mcsweeneys.net/articles/our-top-secret-army-base-uses-too-many-acronyms) by Dan Caprera in McSweeny's Internet Tendency. Check it out.
+
+## Related Projects
+
+| Project | Description |
+| ------- | ----------- |
+| [mikfreedman/pivotal-glossary-clients](https://github.com/mikfreedman/pivotal-glossary-clients) | A collection of extensions for this glossary. [webstore link](https://chrome.google.com/webstore/detail/pivotal-glossary/ljjopgdkacddgfcpfofhngkbopmoamkk) |
+| [Manifaust/cloud-glossary](https://github.com/Manifaust/cloud-glossary) | Another Glossary project, hosted here: <https://glossary.cfapps.io> |
+| [motevets/pivotal-glossary](https://github.com/motevets/pivotal-glossary) | Chrome extension that will expand acronyms based on this glossary. [webstore link](https://chrome.google.com/webstore/detail/pivotal-glossary/ldjikeaflhaeahnfcloapnfpnmbjloog) |

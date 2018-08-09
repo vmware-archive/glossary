@@ -7,7 +7,7 @@ definition: >
   period-delimited segments that represent the base64 encoding of JSON payloads
   representing a token header, body, and digital signature. Within Cloud
   Foundry, every JWT token issued by the UAA is digitally signed and may be
-  validated offline by other components when they recieve the token as part of
+  validated offline by other components when they receive the token as part of
   an API call.
 links:
 - https://www.jwt.io
