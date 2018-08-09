@@ -16,4 +16,5 @@ definition: >
 links:
 - https://network.pivotal.io/products/p-isolation-segment
 - https://content.pivotal.io/blog/tutorial-using-isolation-segments-in-pcf-for-hub-and-spoke-isolation
-see_also: PAS
+see_also:
+- PAS
