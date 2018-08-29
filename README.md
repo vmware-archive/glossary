@@ -49,7 +49,7 @@ entry, you can create an empty template by running `rake add_word["Pair Programm
 
 To preview how the site will look with new entries, build it with `rake && open build/index.html`
 
-## Acknolwedgements
+## Acknowledgements
 
 The need for this list became clear when two members of my team, both new
 Pivots, let me know how overwhelmed they felt by all the acronyms flying at them
