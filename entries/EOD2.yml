@@ -1,8 +1,0 @@
----
-headword: EOD
-expansion: End of Distribution
-definition: A product has reached its End of Distribution when it is no longer available for download from Pivotal Network. This date may coincide with EOSL.
-links:
-- https://pivotal.io/support/lifecycle_policy
-see_also:
-
