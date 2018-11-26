@@ -1,7 +1,6 @@
 ---
 headword: GPHD
 expansion: Greenplum Hadoop
-definition: >
-	MapReduce v1-based Hadoop
+definition: "MapReduce v1-based Hadoop"
 links:
 see_also:
