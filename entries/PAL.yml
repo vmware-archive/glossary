@@ -1,6 +1,10 @@
 ---
 headword: PAL
 expansion: Platform Acceleration Lab
-definition: An education program that teaches developers and architects how to develop cloud-native applications and modernize legacy applications. We enable customers and partners through "doing it" rather than “talking about it". PAL instills Pivotal core practices: test driven development, continuous integration and delivery, pairing, standups, and retrospectives. Courses are conducted in a hands-on setting with experienced Pivotal practitioners and solutions architects. 
+definition: "An education program that teaches developers and architects how to develop cloud-native applications and modernize legacy applications.
+We enable customers and partners through 'doing it' rather than 'talking about it'.
+PAL instills Pivotal core practices: test driven development, continuous integration and delivery,
+pairing, standups, and retrospectives. Courses are conducted in a hands-on setting with experienced
+Pivotal practitioners and solutions architects." 
 links: https://pivotal.io/education
 see_also: 
