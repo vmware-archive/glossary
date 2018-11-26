@@ -6,5 +6,6 @@ We enable customers and partners through 'doing it' rather than 'talking about i
 PAL instills Pivotal core practices: test driven development, continuous integration and delivery,
 pairing, standups, and retrospectives. Courses are conducted in a hands-on setting with experienced
 Pivotal practitioners and solutions architects." 
-links: https://pivotal.io/education
+links:
+- https://pivotal.io/education
 see_also: 
