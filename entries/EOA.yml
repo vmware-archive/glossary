@@ -1,9 +1,8 @@
 ---
 headword: EOA
 expansion: End of Availability
-definition:
+definition: "A product has reached its End of Availability when it is no longer available for purchase from Pivotal and as such no longer appears on Pivotal’s price list."
 links:
 - https://pivotal.io/support/lifecycle_policy
 see_also:
-- EOL
 - EOSL

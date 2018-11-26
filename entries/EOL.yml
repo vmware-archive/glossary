@@ -1,0 +1,9 @@
+---
+headword: EOL
+expansion: End of Life
+definition: "Another term for 'End of Availability'"
+links:
+- https://pivotal.io/support/lifecycle_policy
+see_also:
+- EOA
+- EOSL
