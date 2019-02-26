@@ -1,0 +1,8 @@
+---
+headword: PR
+expansion: Pull Request
+definition: >
+  A suggested change to a Git repository, very often on GitHub.
+links:
+- https://help.github.com/en/articles/about-pull-requests
+see_also:
