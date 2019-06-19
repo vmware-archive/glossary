@@ -1,0 +1,6 @@
+---
+headword: PSP
+expansion: Pod Security Policy
+definition:
+links:
+- https://kubernetes.io/docs/concepts/policy/pod-security-policy/
