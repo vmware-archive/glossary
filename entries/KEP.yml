@@ -1,0 +1,7 @@
+---
+headword: KEP
+expansion: Kubernetes Enhancement Proposal
+definition: A Kubernetes Enhancement Proposal (KEP) is a way to propose, communicate and coordinate on new efforts for the Kubernetes project.
+links: 
+  - https://github.com/kubernetes/enhancements/blob/master/keps/0001-kubernetes-enhancement-proposal-process.md
+see_also:
