@@ -5,3 +5,12 @@ definition: UAA is the component of a CF deployment responsible for user authent
   and authorization. It acts as an identity proxy by integrating with external identity
   providers (e.g. Okta, Centrify, Ping Identity, etc) and exposing an OAuth interface
   to apps and components running within the CF platform.
+links:
+  - https://www.baeldung.com/cloud-foundry-uaa
+pretty_links:
+  - link: https://docs.cloudfoundry.org/concepts/architecture/uaa.html
+    text: Cloudfoundry Docs
+  - link: https://github.com/cloudfoundry/uaa
+    text: Java Codebase
+  - link: https://github.com/cloudfoundry/uaa-release
+    text: BOSH release

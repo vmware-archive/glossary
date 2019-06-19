@@ -57,12 +57,22 @@ end
         </div>
         <% end %>
 
-        <% if e['links'] %>
-        <ul class="links">
-          <% e['links'].each do |link| %>
-          <li><a href="<%= link %>"><%= link %></a></li>
+        <% if e['links'] || e['pretty_links']%>
+          <ul class="links">
+
+          <% if e['links'] %>
+            <% e['links'].each do |link| %>
+            <li><a href="<%= link %>"><%= link %></a></li>
+            <% end %>
           <% end %>
-        </ul>
+
+          <% if e['pretty_links'] %>
+            <% e['pretty_links'].each do |link| %>
+            <li><a href="<%= link['link'] %>"><%= link['text'] %></a></li>
+            <% end %>
+          <% end %>
+
+          </ul>
         <% end %>
 
         <% if e['see_also'] %>
