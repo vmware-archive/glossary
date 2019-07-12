@@ -1,0 +1,5 @@
+headword: UDF
+expansion: user-defined function
+definition: >
+  User-defined functions are common in analytical databases and computational 
+  systems, such as PostgreSQL, Pivotal Greenplum Database, and Apache Spark
