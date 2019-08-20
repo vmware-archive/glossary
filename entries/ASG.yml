@@ -6,4 +6,4 @@ definition: >
   rules that specify the protocols, ports, and IP address ranges 
   where app or task instances send traffic.
 links:
-  - https://docs.pivotal.io/pivotalcf/2-1/concepts/asg.html
+  - https://docs.pivotal.io/pivotalcf/concepts/asg.html
